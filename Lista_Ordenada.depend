@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557075369 source:c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\lista ordenada\lista_ordenada\main.cpp
+	<iostream>
+	"ListaOrdenada.h"
+	<stdlib.h>
+	<conio.h>
+
+1557074403 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\lista ordenada\lista_ordenada\listaordenada.h
+
